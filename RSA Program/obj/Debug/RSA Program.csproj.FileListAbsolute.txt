@@ -1,0 +1,9 @@
+c:\users\duke\documents\visual studio 2015\Projects\RSA Program\RSA Program\bin\Debug\RSA Program.exe.config
+C:\Users\Duke\Documents\Visual Studio 2015\Projects\RSA Program\RSA Program\obj\Debug\RSA Program.csproj.CoreCompileInputs.cache
+C:\Users\Duke\Documents\Visual Studio 2015\Projects\RSA Program\RSA Program\bin\Debug\RSA Program.exe
+C:\Users\Duke\Documents\Visual Studio 2015\Projects\RSA Program\RSA Program\bin\Debug\RSA Program.pdb
+C:\Users\Duke\Documents\Visual Studio 2015\Projects\RSA Program\RSA Program\obj\Debug\RSA Program.exe
+C:\Users\Duke\Documents\Visual Studio 2015\Projects\RSA Program\RSA Program\obj\Debug\RSA Program.pdb
+C:\Users\Matt\Desktop\RSA Program\RSA Program\bin\Debug\RSA Program.exe.config
+C:\Users\Matt\Desktop\RSA Program\RSA Program\obj\Debug\RSA Program.exe
+C:\Users\Matt\Desktop\RSA Program\RSA Program\obj\Debug\RSA Program.pdb
